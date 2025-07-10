@@ -23,5 +23,5 @@ We use **AutoGluon Tabular Prediction** to:
 - Pandas, NumPy, Matplotlib
 - Kaggle API (optional, for submission)
 
-## 📁 Project Structure
+
 
